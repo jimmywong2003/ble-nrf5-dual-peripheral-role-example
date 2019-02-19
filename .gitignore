@@ -1,16 +1,31 @@
-# Prerequisites
-*.d
+# JLink configure
+JLinkLog.txt
+JLinkSettings.ini
+RTE/
+do-not-git/
+*.wsdt
+*.wspos
+*.ewt
+*.crun
+*.jlink
+*.dbgdt
+*.dni
+*.xcl
+*.cspy.bat
+*.ds_store
 
 # Object files
 *.o
 *.ko
 *.obj
 *.elf
-
-# Linker output
-*.ilk
+*.d
 *.map
-*.exp
+*.ind
+*.ld
+*.asm
+*.od
+*.ind
 
 # Precompiled Headers
 *.gch
@@ -38,15 +53,21 @@
 
 # Debug files
 *.dSYM/
-*.su
-*.idb
-*.pdb
 
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+# Python
+*.pyc
+
+# GIT log
+git.log
+
+# Keil
+*.uvgui.*
+*.uvguix.*
+
+# Nordic
+_build/
+si_proj/
+# RTE/
+
+# Winmerge
+*.bak
