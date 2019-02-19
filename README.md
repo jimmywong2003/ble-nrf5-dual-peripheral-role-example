@@ -1,4 +1,4 @@
-# Dual_ble_peripheral_example
+# Dual_Ble_Peripheral_Example
 
 ## Descriptions
 
