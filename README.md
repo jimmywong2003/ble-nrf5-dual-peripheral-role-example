@@ -8,6 +8,7 @@ It has the simple sample by using Blinky application to show how one Peripheral 
 
 In this example, it would add the NUS (Nordic UART service) with LBS together as duel peripheral role and do the data forwarding from one central to another central.
 
+Also, the SAADC would be added to check on the battery level.
 
 ## Requirements
 
