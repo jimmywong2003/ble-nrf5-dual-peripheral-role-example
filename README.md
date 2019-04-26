@@ -1,4 +1,4 @@
-# Dual_Ble_Peripheral_Example
+# Multiple peripheral data forward through central 
 
 ## Descriptions
 
