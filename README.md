@@ -17,3 +17,5 @@ Also, the SAADC would be added to check on the battery level.
 * Segger Embedded Studio
 
 To compile it, clone the repository in the \nRF5_SDK_15.0.0_a53641a\example\ folder. If you download the zip, place each of the project folders of this repository into the \nRF5_SDK_15.0.0_a53641a\example\ folder.
+
+All the details can be described at [Link](https://jimmywongbluetooth.wordpress.com/2019/02/19/example-how-to-do-the-data-forward-between-two-ble-central-host/).
